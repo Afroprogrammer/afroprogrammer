@@ -803,10 +803,11 @@ textarea:focus, textarea.form-control:focus, input.form-control:focus, input[typ
     padding-bottom: 5px;
 }
 
-.projects-filter ul li{
+.projects-filter ul li, .sidebar .nav li, h4 {
     letter-spacing: 1px;
     text-transform: uppercase;
 }
+
 .projects-background {
     padding: 100px 0 0;
 }
